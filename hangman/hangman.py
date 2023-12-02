@@ -79,7 +79,7 @@ toad trout turkey turtle weasel whale wolf wombat zebra'''.split()
                 continue
             print(''.join(result))
             if result == word:
-                self.info('Congrats bitch u won')
+                self.info('Congrats! u won')
                 success = True
                 break
             if not right:
